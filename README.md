@@ -7,7 +7,7 @@
 - When the name is entered, the program stores the name and the time employee clocked in to work
 - If the same name is entered again, the program will clock out the employee and issue them a time card with the hours worked in decimal time 
 
-<strong>Limitations</strong><br>
-- Not using IDs for employees limits this program to unique names (for ex. employee named Mary can only clock in once at a time)
+<strong>SCREENSHOTS</strong>
+<img src="./assets/test.png" />
 
 
